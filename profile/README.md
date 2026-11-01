@@ -1,6 +1,4 @@
-# Sigil
-
-**Every AI agent capability, proven.**
+<img src="banner.png" alt="Sigil: every AI agent capability, proven. The open proving ground: A/B runs on hidden tests and a canary sandbox." width="100%">
 
 Sigil is the open proving ground for AI agent capabilities: skills, rules, commands, hooks, subagents
 and MCP servers. It measures whether a capability actually makes a coding agent better, with A/B runs
